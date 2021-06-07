@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 15.0.2
+Implementation-Title: PiedevDari
+Implementation-Version: 1.0
+Implementation-Vendor-Id: tn.esprit.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/PiedevDari
+Created-By: Maven Integration for Eclipse
+
